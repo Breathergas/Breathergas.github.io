@@ -1,0 +1,32 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "Random Matrix Theory and Integrable Systems Seminar"
+theme: "xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: About
+      url: "about/"
+      weight: 2
+      
+params:
+  description: "A website built through Hugo theme designed by Yihui."
+  footer: "&copy; [Fudong Wang](https://fudongone.github.io) 2017 -- {2024}"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
