@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="https://raw.githubusercontent.com/Breathergas/Breathergas.github.io/main/images/rs.png" style="max-width:45%;min-width:80px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+[<img src="https://raw.githubusercontent.com/Breathergas/Breathergas.github.io/main/images/rs.png" style="max-width:45%;min-width:80px;float:right;" alt="Github repo" />](https://fudongone.github.io)
 # Random Matrix Theory and Integrable Systems Seminar (RMTISS)
 
 *Hosted by [Fudong Wang](https://fudongone.github.io/) and Meng Yang @ Great Bay University (大湾区大学（筹）)*
