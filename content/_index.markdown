@@ -23,22 +23,6 @@ title: Home
 
 ---
 
-<table>
-  <tr>
-    <td colspan="4">
-      Available
-    </td>
-    <td rowspan="2">
-      Processes
-    </td>
-    <td colspan="4">
-      Allocation
-    </td>
-    <td colspan="4">
-      Max
-    </td>
-  </tr>
-</table>
 
 
 
