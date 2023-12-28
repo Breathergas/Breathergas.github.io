@@ -19,6 +19,9 @@ menu:
     - name: About
       url: "about/"
       weight: 2
+    - name: Events
+      url: "events/"
+      weight: 3
       
 params:
   description: "A website built through Hugo theme designed by Yihui."
