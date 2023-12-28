@@ -1,5 +1,5 @@
 ---
-title: About Random Matrix and Integrable Systems Seminar （RMISS）
+title: About Random Matrix and Integrable Systems Seminar （RMTISS）
 author: Orgnized by Fudong Wang and Meng Yang 
 ---
 

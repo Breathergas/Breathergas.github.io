@@ -49,9 +49,12 @@ table {
 table thead th { border-bottom: 3px solid #ddd; }
 th, td { padding: 10px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
+table td:nth-of-type(2) {font-size: 1.3em;}
 table th:first-of-type {
   width: 70%;
+  font-size: 1.5em;
 }
 table th:nth-of-type(2) {
   width: 30%;
+  font-size: 1.5em;
 }
