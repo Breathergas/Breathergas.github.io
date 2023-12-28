@@ -21,9 +21,6 @@ title: Home
 | **Ji-Yuan Zhang** (KU Leuven, Belgium)  |* Recent developments of Polya ensembles * |  A significant advance in random matrix theory in recent years has been the development of a matrix transform theory based on spherical functions from harmonic analysis. One aspect has been the identification of the previously unknown Polya ensembles---intimately related to Polya frequency functions---which exhibit a key closure property of the functional form of their joint eigenvalue probability density function with respect to matrix addition or multiplication. They also form determinantal point processes constructed out of a special class of biorthogonal functions. The latter permit explicit forms in terms of sums or integrals, which moreover allow for the correlation kernel to be written in a double contour integral form, which is a key ingredient in subsequent asymptotic analysis. In  this talk I will give a brief review on the theory for Polya ensembles, their constructions, the determinantal structures and their kernels. | A5-1806 （Tencent：918 5790 6639） | 4pm-5pm , Jan 12th, 2024  |
 |**Sung-Soo Byun** (Seoul National University, Korea)|* Random Matrix Theory Through the Lens of the Universality Principle*|As a fundamental concept in modern probability theory, universality asserts that the outcome of a system is largely independent of its specific structural details, provided there are sufficiently many different sources of randomness. In this talk, I will present recent progress on the universality principle in the context of the non-Hermitian random matrix theory. In particular, I will introduce the local universality problem of the planar symplectic ensembles and present my contributions to this topic.|A5-1806 （Tencent：918 5790 6639） |4pm-5pm , Jan 11th, 2024|
 
-
-
-
 ---
 
 
