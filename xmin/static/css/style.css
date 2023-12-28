@@ -10,7 +10,7 @@ body {
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  background: hsl(164, 77%, 88%);
+  background: #ddd;
   padding: 10px;
   border-radius: 30px;
 }
@@ -49,3 +49,9 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
+table th:first-of-type {
+  width: 70%;
+}
+table th:nth-of-type(2) {
+  width: 30%;
+}
