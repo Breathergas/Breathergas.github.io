@@ -13,7 +13,7 @@ title: Home
 ### Scheduled Talks (Listed as New to Old)
 
 
-| <div style="width:150px">Speakers</div>  | <div style="width:250px">Title and Abstract</div>  | <div style="width:350px">Abstract</div> | <div style="width:200px">Location</div>  |<div style="width:160px">Time (GMT+8) </div>   |
+| Speakers  | Title   | Abstract | Location |Time (GMT+8)  |
 |---|---|---|:---:|:------:|
 | **Christophe Charlier**(Lund University, Sweden)   | *Hole probabilities and balayage of measures for planar Coulomb gases*  |  Coulomb gases consist of `$n$` particles repelling each other via the 2D Coulomb law and subject to the presence of an external potential. In this talk, I will discuss recent results on the probability that a given subset of the plane is free from particles when `$n$` is large. I will also discuss the most likely point configurations (``far from equilibrium") which produce such holes. | Zoom ID: 323410132  | 4pm-5pm , February 1st, 2024|
 |**Yuan-Yuan Xu**(AMSS, CAS, China)|*Universality of extremal eigenvalues of large random matrices*| We will report on recent progress regarding the universality of the extremal eigenvalues of a large random matrix with i.i.d. entries. Beyond the radius of the celebrated circular law, we will establish a precise three-term asymptotic expansion for the largest eigenvalue (in modulus) with an optimal error term. Based on this result, we will further show that the properly normalized largest eigenvalue converges to a Gumbel distribution as the dimension goes to infinity. Furthermore, we also prove that the argument of the largest eigenvalue is uniform on the unit circle and that the extremal eigenvalues form a Poisson point process. Similar results also apply to the rightmost eigenvalue of the matrix. These results are based on several joint works with Giorgio Cipolloni, Laszlo Erdos, and Dominik Schroder.|A5-1806（Tencent：918 5790 6639））|4pm-5pm , Jan 17th, 2024|
@@ -22,6 +22,23 @@ title: Home
 |**Sung-Soo Byun** (Seoul National University, Korea)|*Random Matrix Theory Through the Lens of the Universality Principle*|As a fundamental concept in modern probability theory, universality asserts that the outcome of a system is largely independent of its specific structural details, provided there are sufficiently many different sources of randomness. In this talk, I will present recent progress on the universality principle in the context of the non-Hermitian random matrix theory. In particular, I will introduce the local universality problem of the planar symplectic ensembles and present my contributions to this topic.|A5-1806 （Tencent：918 5790 6639） |4pm-5pm , Jan 11th, 2024|
 
 ---
+
+<table>
+  <tr>
+    <td colspan="4">
+      Available
+    </td>
+    <td rowspan="2">
+      Processes
+    </td>
+    <td colspan="4">
+      Allocation
+    </td>
+    <td colspan="4">
+      Max
+    </td>
+  </tr>
+</table>
 
 
 
