@@ -10,7 +10,7 @@ Random Matrix and Integrable Systems Seminar is orgnized by Fudong and Meng.
 ---
 # About the orgnizers
 
-See more on Fudong's [website](https://fudongone.github.io)
+See more on Fudong's [website](https://fudongone.github.io) or Meng's [website](https://www.gbu.edu.cn/detail/article/528).
 
 ---
 中文版正在加紧建设中。Chinese version is under construction....
