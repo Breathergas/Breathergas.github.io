@@ -5,6 +5,29 @@ body {
   line-height: 1.5;
 }
 
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
@@ -21,6 +44,8 @@ hr {
   border-style: dashed;
   color: #ddd;
 }
+
+
 
 /* code */
 pre {
@@ -55,3 +80,4 @@ table th:first-of-type {
 table th:nth-of-type(2) {
   width: 30%;
 }
+
