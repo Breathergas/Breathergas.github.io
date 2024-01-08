@@ -12,7 +12,7 @@ title: Home
 # Scheduled Talks (Listed as New to Old)
 
 
-|*(Ask Fudong if the zoom passcode is needed.)*|
+|*(Ask Fudong if the zoom passcode is needed. All the talks are based on Beijing Time.)*|
 |:---:|
 |<span style="color: DodgerBlue; font-size: 40px;">March, 2024</span>|
  | **Nathan Hayford**(KTH, Sweden) <br /> ***The Ising model on a random planar lattice: the genus zero free energy***<br /> Zoom ID: 323410132  <br /> <span style="color: Tomato; font-size: 25px;">4pm-5pm , March 1st, 2024</span><br /> <button class="collapsible">Abstract</button> <div class="content"> <p>The 2D Ising model is one of the most celebrated examples of an exactly solvable lattice model. Motivated by problems in statistical mechanics and 2D quantum gravity, in 1986 Vladimir Kazakov considered the Ising model on a random planar lattice using techniques from random matrix theory. He was able to derive a formula for the free energy of this model, and made the first prediction of the Kniznik-Polyakov-Zamolodchikov (KPZ) formula for the shift of the critical exponents of a conformal field theory when coupled to quantum gravity. Unfortunately, his derivation was not mathematically rigorous, and the formula he obtained for the free energy was somewhat unwieldy. In this talk, I will review some of the details regarding both the Ising model and random matrices, and sketch a rigorous proof of Kazakov’s formula for the free energy. I will also present a parametric formula for the free energy, which seems to be new..</p></div> |
