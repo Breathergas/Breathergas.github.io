@@ -48,6 +48,7 @@ table {
   margin: auto;
   border-top: 2px solid #666;
   border-bottom: 2px solid #666;
+  background: #f6be8c;
 }
 table thead th { border-bottom: 3px solid #ebbfbf; }
 th, td { padding: 10px; }
