@@ -49,15 +49,14 @@ table {
   margin: auto;
   border-top: 1px solid #666;
   border-bottom: 1px solid #666;
-  background: #f6be8c;
+  background: #ac9987;
 }
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee7a4; }
+tr:nth-child(odd) { background: #99edea; }
 table th:first-of-type {
   width: 70%;
 }
-table th:nth-of-type(2) {
-  width: 30%;
-}
+
 

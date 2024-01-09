@@ -48,18 +48,16 @@ table {
   margin: auto;
   border-top: 2px solid #666;
   border-bottom: 2px solid #666;
-  background: #f6be8c;
+  background: #bebbb8;
 }
-table thead th { border-bottom: 3px solid #ebbfbf; }
+table thead th { border-bottom: 3px solid #f1e5e5; }
 th, td { padding: 10px; }
-thead, tfoot, tr:nth-child(even) { background: #ecd88e; }
+thead, tfoot, tr:nth-child(even) { background: #eee1b2; }
+thead, tfoot, tr:nth-child(odd) { background: #c9dad5; }
 table td:nth-of-type(2) {font-size: 1.3em;}
 table th:first-of-type {
   width: 70%;
   font-size: 1.5em;
 }
-table th:nth-of-type(2) {
-  width: 30%;
-  font-size: 1.5em;
-}
+
 
